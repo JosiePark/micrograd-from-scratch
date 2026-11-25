@@ -1,0 +1,1 @@
+![CI](https://github.com/<your-username>/micrograd-from-scratch/actions/workflows/ci.yml/badge.svg)
